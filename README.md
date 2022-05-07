@@ -52,11 +52,14 @@ src="https://img.shields.io/github/followers/bitu467?logo=github&style=for-the-b
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/bitu467/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitu467&repo=portfolio&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bitu467/freecodecamp_projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitu467&repo=freecodecamp_projects&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/bitu467/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitu467&repo=portfolio&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bitu467/freecodecamp_projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitu467&repo=freecodecamp_projects&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/bitu467/stats-preview" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitu467&repo=stats-preview&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bitu467/order-component-summary" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitu467&repo=order-component-summary&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br />
+<br />
 
 ### Support Me
 
